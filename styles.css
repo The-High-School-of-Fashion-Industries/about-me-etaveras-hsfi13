@@ -1,0 +1,26 @@
+
+.div{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      background-color: cornflowerblue;
+      display
+}
+
+
+
+.nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    background-color: cornflowerblue;
+    padding:0px;
+    margin:0px;
+    display:flex;
+    
+    
+    
+}
+.navlist{ 
+    display: flex;
+    list-style-type:none;
+    justify-content: center;
+   gap: 140px
+
+}
